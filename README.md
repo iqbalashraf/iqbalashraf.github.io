@@ -1,0 +1,3 @@
+# This is a template for the easyNextBlog
+
+Todo write the tutorial...

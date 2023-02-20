@@ -1,0 +1,22 @@
+Left Side content: config.js
+
+Right side pages: 
+
+pages/index.js  --- Home
+pages/iqbal.js  --- Iqbal
+pages/iqbal.js  --- Iqbal
+pages/iqbal.js  --- Iqbal
+pages/iqbal.js  --- Iqbal
+pages/iqbal.js  --- Iqbal
+
+
+
+
+Building:
+make build
+
+
+Running on system:
+make run
+
+http://localhost:3001/
