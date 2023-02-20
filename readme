@@ -20,3 +20,10 @@ Running on system:
 make run
 
 http://localhost:3001/
+
+
+Online push
+
+git add -A
+git commit -am "Kya kiya"
+git push

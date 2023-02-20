@@ -10,8 +10,6 @@ endif
 
 
 build: config.js posts/*/*.md pages/*.js
-	git submodule update --init --recursive
-	cd easyNextBlog/ && git checkout main
 	cd easyNextBlog/ && npm i
 	node generate.js
 	npm run --prefix easyNextBlog/ build
